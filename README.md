@@ -1,1 +1,1 @@
-# webinar-frontend-test-task.zip
+Архив с тестовым заданием junior-frontend разработчик.
